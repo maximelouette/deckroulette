@@ -34,7 +34,7 @@ h1 {
 	position: relative;
 	height: 298px;
 	width: 1120px;
-	background: url('images/all-heroes.jpg') repeat;
+	background: url('all-heroes.jpg') repeat;
 	transition: all 5s cubic-bezier(.47,.77,.41,1.13);
 	/*border: 5px solid #000000;*/
 
